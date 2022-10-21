@@ -6,7 +6,7 @@ You can use the method provided by this project to send program messages back an
 ##Quick Start
 ```python
 from line_notify import Code_returner
-helper = Code_returner(token='arigeOSqoNFVR6Zm0NxAmsGCMI2SKkCmhNnLwMRBK1m')
+helper = Code_returner(token='[your line notify token]')
 helper.send_message(message='test messenge')
 helper.send_image(img_path='your_image_path.png',message='test image')
 ```
