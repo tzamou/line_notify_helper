@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 setuptools.setup(
     name="linenotifyhelper",
     version="0.0.1",
-    author="Guan-Lin Chen",
+    author="Kuan-Lin Chen",
     author_email="ken54787845@gmail.com",
     description="A small test project through which program messages can be sent back and forth to the line",
     long_description=long_description,
